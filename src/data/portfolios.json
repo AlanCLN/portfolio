@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Sorting Algorithm Visualizer",
+    "categories": ["marketing"],
+    "thumb": "quick-sort-demo.gif",
+    "featuredVideo": false,
+    "videoLink": null,
+    "sourceLink": "https://alancln.github.io/Sorting-Algorithm-Visualizer/",
+    "description": "Sorting Algorithm Visualizer is an application that allow users to observe the intermediate steps of popular sorting algorithms (i.e. bubbleSort, quickSort, mergeSort). It is built using HTML, CSS, and Vanilla Javascript."
+  },
+  {
+    "id": 2,
+    "title": "Pixel Pins",
+    "categories": ["web", "marketing"],
+    "thumb": "splash-page-gif.gif",
+    "featuredVideo": false,
+    "videoLink": null,
+    "sourceLink": "https://pixel-pins.herokuapp.com/#/",
+    "description": "Pixel Pins is a full-stack Pinterest clone using React-Redux for the front-end and Ruby on Rails for the back-end. It allows a logged in user to be inspired by ideas that other people create/post through the form of a 'pin'."
+  },
+  {
+    "id": 3,
+    "title": "Dina Dopt",
+    "categories": ["graphics", "web", "marketing"],
+    "thumb": "dina-dopt-demo.gif",
+    "featuredVideo": false,
+    "videoLink": null,
+    "sourceLink": "https://dina-dopt.herokuapp.com/#/",
+    "description": "Dina Dopt is a MERN stack application that imitates the adoption of prehistoric pets. A logged-in user can view these pets, add them to cart, and then later check them out."
+  }
+]

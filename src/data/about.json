@@ -1,0 +1,25 @@
+{
+  "name": "Alan Ng",
+  "bio": "<p>I am a software engineer with a passion for full-stack web development. I enjoy understanding a stack as a whole and try to break complex topics down into small pieces. Because of this, I've grown to enjoy teaching during my time at the App Academy Bootcamp.</p> <p>Some hobbies include playing basketball, snowboarding, and recently - weightlifting. I also love traveling to new places and explore new things. These past couple of years have definitely been rough but hopefully I can start writing off my bucket list again.</p>",
+  "thumb": "about-left-thumb.jpg",
+  "socialMedia": [
+    {
+      "id": 1,
+      "media": "linkedin",
+      "icon": "FaLinkedinIn",
+      "link": "https://www.linkedin.com/in/alan-cln/"
+    },
+    {
+      "id": 2,
+      "media": "github",
+      "icon": "FaGithub",
+      "link": "https://github.com/AlanCLN"
+    },
+    {
+      "id": 3,
+      "media": "angellist",
+      "icon": "FaAngellist",
+      "link": "https://angel.co/u/alan-cheuk-lun-ng"
+    }
+  ]
+}
